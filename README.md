@@ -1,6 +1,6 @@
 # Dorm Decor Mood Board
 
-I created this site the summer before my Freshman year of college, when I was brainstorming what to bring for my dorm the next year.
+I created this site the summer before my Freshman year of college, when I was brainstorming what to bring for my dorm the next year.  This project also helped solidify my understanding of flexbox in CSS.
 
 You can access the site by clicking [this link](https://e9bda8b4-46af-4477-8b26-aa45b7b47503-00-28q0196xnh2u6.spock.replit.dev/).
 
